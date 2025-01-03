@@ -5,8 +5,5 @@
 
 
 
-<video width="600" controls>
-  <source src="./rugby-tracker-example-output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Rugby Tracker GIF](./rugby-tracker-example-output.gif)
 
