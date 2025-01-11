@@ -1,7 +1,7 @@
 # rugby_tracker
 
 This was developed for a MSc thesis in Artificial Intelligence at the University of Limerick in 2022.
-It received above a 90% grade and was awarded a 1st class honours overall.
+This project received above a grade of ~95% and was awarded a 1st class honours overall.
 
 [Here's a copy of my thesis, describing what the application does, and how.](./MScAI_Thesis_TS_20214537_Tom_Keane.pdf)
 
